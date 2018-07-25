@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX JavaBeanObjectPropertyBuilder Demo
+=========================================
 
-Show a window with `Hello, JavaFX` label.
+Use `JavaBeanObjectPropertyBuilder` to create a property for textfields to connect them to an array of data.
 
